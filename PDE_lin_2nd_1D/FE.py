@@ -6,7 +6,7 @@ class FEFourier1DEq():
         self._range = np.array(range)
         self._delta = (self.range[1]-self.range[0])/self.K
 
-        self._P = P
+        self._P = int(P)
 
     @property
     def K(self):
