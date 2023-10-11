@@ -1,6 +1,7 @@
 \documentclass[preprint, 12pt]{revtex4-2}
 \usepackage{amssymb}
 \usepackage{amsmath}
+\usepackage{amsfonts}
 \DeclareMathOperator{\Tr}{Tr}
 \usepackage{physics}
 \usepackage{xcolor}
@@ -25,9 +26,9 @@
 \section{Finite Element Method (FEM)}
 \section{Tensor Network (TN)}
 \section{Target Equation}
-In this work, we will focus on a class of analytic partial differential equation (A-PDE) of a function of time and space, $u(t, q)$ with $q$ be spatial vector, that is linear in time (LTA-PDE). This PDE can be written in the form
+In this work, we will focus on a class of analytic partial differential equation (A-PDE) of a function of time and space, $u(t, q_i|i\in\{1, 2, \cdots, D\})$, where we use  with $\mathbf{q}$ be spatial vector, that is linear in time (LTA-PDE). This PDE can be written in the form
 \begin{equation}
-    D_tu + h\left(t, q, u, D_qu, D_q^2u, \cdots \right) = 0,
+    D_tu + h\left(t, \mathbf{q}, u, \mathbf{\partial_q}u, \mathbf{D_q}^2u, \cdots \right) = 0,
 \end{equation}
 where $D_t$ is time derivative, $D_q$ is space derivative, and $h$ is an analytic function which can be written as
 \begin{equation}
