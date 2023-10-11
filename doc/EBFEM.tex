@@ -25,11 +25,16 @@
 \section{Finite Element Method (FEM)}
 \section{Tensor Network (TN)}
 \section{Target Equation}
-In this work, we will focus on a class of partial differential equation (PDE) of a function of time and space, $u(t, )$, that is linear in time, i.e., the PDE can be written in the form
+In this work, we will focus on a class of analytic partial differential equation (A-PDE) of a function of time and space, $u(t, q)$ with $q$ be spatial vector, that is linear in time (LTA-PDE). This PDE can be written in the form
 \begin{equation}
-    \dfrac{\partial}{\partial t}
+    D_tu + h\left(t, q, u, D_qu, D_q^2u, \cdots \right) = 0,
 \end{equation}
-\section{FEM Representation of LTS-PDE}
+where $D_t$ is time derivative, $D_q$ is space derivative, and $h$ is an analytic function which can be written as
+\begin{equation}
+    h\left(t, q, u, D_qu, D_q^2u, \cdots\right) = \sum_{p_t, p_q, p_0,\cdots}h_{p_t, p_q, p_0,\cdots}t^{p_t}q^{p_q}u^{p_0}\left(D_qu\right)^{p_1}\left(D_q^2u\right)^{p_2}\cdots.
+\end{equation}
+Notice that $h_{p_t, p_q, p_0,\cdots}$ is a rank $\prod_{r=0} (r\cdot p_r)$ tensors.
+\section{FEM Representation of LTA-PDE}
 \section{Tensor Optimization}
 \section{Matrix Product State (MPS) Representation}
 \section{Implementation}
