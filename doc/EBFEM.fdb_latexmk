@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex EBFEM"] 1697808553 "EBFEM.aux" "EBFEM.bbl" "EBFEM" 1697811216 0
-  "./EBFEMNotes.bib" 1697811215 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
+["bibtex EBFEM"] 1698242022 "EBFEM.aux" "EBFEM.bbl" "EBFEM" 1698242024 0
+  "./EBFEMNotes.bib" 1698242023 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1601735216 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "EBFEM.aux" 1697811215 1388 674dc2c9e7176cc4ac0590752f1c2c4f "pdflatex"
+  "EBFEM.aux" 1698242023 1388 674dc2c9e7176cc4ac0590752f1c2c4f "pdflatex"
   (generated)
   "EBFEM.bbl"
   "EBFEM.blg"
   (rewritten before read)
-["pdflatex"] 1697811214 "d:/python_project/SAGE-TN/doc/EBFEM.tex" "EBFEM.pdf" "EBFEM" 1697811216 0
-  "C:/Users/earthz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697037319 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "C:/Users/earthz/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1668380161 10788483 8fb70ca59706b7c03e683577e7f4870f ""
+["pdflatex"] 1698242023 "d:/python_project/SAGE-TN/doc/EBFEM.tex" "EBFEM.pdf" "EBFEM" 1698242024 0
+  "C:/Users/earthz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1696971899 82507 a9eef8696c92627b87e9975edea03b2a ""
+  "C:/Users/earthz/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1678828308 23176270 69a26e7bcd117cc6cfee07209a0c37ab ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233955454 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -65,9 +65,9 @@
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx" 1665067579 3171 1cf0d440b5464e2f034398ce4ef36f75 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
-  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1664388628 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
-  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1664389290 6107 fa5d25e84c05db068aed042b51a24d3b ""
-  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1655913260 6812 d2f733947d73940b228845829d585700 ""
+  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1673904422 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1675777280 6107 1d6e5fdc08231f1514f708e58b81748a ""
+  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1673905590 6812 15bc6b0b734bc50fd1694a0947c28886 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mathtools.sty" 1656514886 62269 5c1837a5bc5db4c0d255eedc225ca44b ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mhsetup.sty" 1656514886 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/natbib/natbib.sty" 1292252681 46712 1c8843383c0bd05870c45fa0ebea6cc2 ""
@@ -77,13 +77,13 @@
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revsymb4-2.sty" 1601735216 5568 c1023e561e6863a1ddb7cd695a7eb4ce ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revtex4-2.cls" 1601735216 202588 252d8ad05b878c573f3e2adfc38ce076 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty" 1657800947 2405 93dca770d0598d835703b5d004a641b7 ""
-  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1654690828 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
+  "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1667242266 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/earthz/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "EBFEM.aux" 1697811215 1388 674dc2c9e7176cc4ac0590752f1c2c4f "pdflatex"
-  "EBFEM.bbl" 1697808553 2035 35453d3875d823f0ec9445e740a573d9 "bibtex EBFEM"
-  "EBFEM.tex" 1697811214 12159 ab435034b90c71f9ec9c88acda902702 ""
-  "d:/python_project/SAGE-TN/doc/EBFEM.tex" 1697811214 12159 ab435034b90c71f9ec9c88acda902702 ""
+  "EBFEM.aux" 1698242023 1388 674dc2c9e7176cc4ac0590752f1c2c4f "pdflatex"
+  "EBFEM.bbl" 1698242022 2035 35453d3875d823f0ec9445e740a573d9 "bibtex EBFEM"
+  "EBFEM.tex" 1698242019 12159 ab435034b90c71f9ec9c88acda902702 ""
+  "d:/python_project/SAGE-TN/doc/EBFEM.tex" 1698242019 12159 ab435034b90c71f9ec9c88acda902702 ""
   (generated)
   "EBFEM.aux"
   "EBFEM.log"
